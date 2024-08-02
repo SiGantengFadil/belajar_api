@@ -6,7 +6,7 @@ use App\Http\Controllers\Api\KategoriController;
 use App\Http\Controllers\Api\TagController;
 use App\Http\Controllers\Api\UserController;
 use App\Http\Controllers\Api\BeritaController;
-use App\Http\Controllers\Api\AuthController;
+use App\Http\Controllers\api\AuthController;
 
 
 
